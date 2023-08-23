@@ -1,29 +1,37 @@
-# spotify-clone
+# Vue 3 Spotify Clone Dummy App
 
-This template should help get you started developing with Vue 3 in Vite.
+![](public/screenshots/1.png)
 
-## Recommended IDE Setup
+### Table of Contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- Features
+- Tech Stack
+- Screenshots
+- Installation
+- Usage
+- Project Status
+- License
 
-## Customize configuration
+### Tech Stack
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Frontend: Vue 3 Composition API
+- Styling: TailwindCSS
 
-## Project Setup
+### Screenshots of the dummy project
 
-```sh
-npm install
-```
+![](public/screenshots/1.png)
 
-### Compile and Hot-Reload for Development
+![](public/screenshots/2.png)
 
-```sh
-npm run dev
-```
+![](public/screenshots/3.png)
 
-### Compile and Minify for Production
+### Installation
 
-```sh
-npm run build
-```
+- Clone the repository: https://github.com/programwithmuhd/spotify-clone.git
+- Install dependencies:
+
+- composer install
+- npm install
+
+### License
+This project is licensed under the MIT License
