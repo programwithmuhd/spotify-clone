@@ -4,12 +4,9 @@
 
 ### Table of Contents
 
-- Features
 - Tech Stack
 - Screenshots
 - Installation
-- Usage
-- Project Status
 - License
 
 ### Tech Stack
@@ -28,10 +25,7 @@
 ### Installation
 
 - Clone the repository: https://github.com/programwithmuhd/spotify-clone.git
-- Install dependencies:
-
-- composer install
-- npm install
+- Install dependencies: npm install
 
 ### License
 This project is licensed under the MIT License
